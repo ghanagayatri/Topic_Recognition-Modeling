@@ -8,33 +8,33 @@ Topic models provide a simple way to analyze large volumes of unlabeled text. A
 
 
 References:
-http://en.wikipedia.org/wiki/Topic_model
-http://www.cs.princeton.edu/~blei/topicmodeling.html
-http://mallet.cs.umass.edu/topics.php
+1. http://en.wikipedia.org/wiki/Topic_model
+2. http://www.cs.princeton.edu/~blei/topicmodeling.html
+3. http://mallet.cs.umass.edu/topics.php
 
 ## Dataset:
 
 The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets.The data is organized into 20 different newsgroups, each corresponding to a different topic. Some of the newsgroups are very closely related to each other. Here are the groups:
-comp.graphics
-comp.os.ms-windows.misc
-comp.sys.ibm.pc.hardware
-comp.sys.mac.hardware
-comp.windows.x
-rec.autos
-rec.motorcycles
-rec.sport.baseball
-rec.sport.hockey
-sci.crypt
-sci.electronics
-sci.med
-sci.space
-misc.forsale
-talk.politics.misc
-talk.politics.guns
-talk.politics.mideast
-talk.religion.misc
-alt.atheism
-soc.religion.christian
+ comp.graphics
+ comp.os.ms-windows.misc
+ comp.sys.ibm.pc.hardware
+ comp.sys.mac.hardware
+ comp.windows.x
+ rec.autos
+ rec.motorcycles
+ rec.sport.baseball
+ rec.sport.hockey
+ sci.crypt
+ sci.electronics
+ sci.med
+ sci.space
+ misc.forsale
+ talk.politics.misc
+ talk.politics.guns
+ talk.politics.mideast
+ talk.religion.misc
+ alt.atheism
+ soc.religion.christian
 The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
 
 ## Tools:
