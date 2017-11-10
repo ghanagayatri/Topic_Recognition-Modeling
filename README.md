@@ -15,26 +15,26 @@ References:
 ## Dataset:
 
 The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets.The data is organized into 20 different newsgroups, each corresponding to a different topic. Some of the newsgroups are very closely related to each other. Here are the groups:
- comp.graphics
- comp.os.ms-windows.misc
- comp.sys.ibm.pc.hardware
- comp.sys.mac.hardware
- comp.windows.x
- rec.autos
- rec.motorcycles
- rec.sport.baseball
- rec.sport.hockey
- sci.crypt
- sci.electronics
- sci.med
- sci.space
- misc.forsale
- talk.politics.misc
- talk.politics.guns
- talk.politics.mideast
- talk.religion.misc
- alt.atheism
- soc.religion.christian
+1. comp.graphics
+2. comp.os.ms-windows.misc
+3. comp.sys.ibm.pc.hardware
+4. comp.sys.mac.hardware
+5. comp.windows.x	
+6. rec.autos
+7. rec.motorcycles
+8. rec.sport.baseball
+9. rec.sport.hockey	
+10. sci.crypt
+11. sci.electronics
+12. sci.med
+13. sci.space
+14. misc.forsale	
+15. talk.politics.misc
+16. talk.politics.guns
+17. talk.politics.mideast	
+18. talk.religion.misc
+19. alt.atheism
+20. soc.religion.christian
 The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
 
 ## Tools:
